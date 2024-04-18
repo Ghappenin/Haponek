@@ -3,10 +3,10 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b>Wireshark</b>
-  - [Wireshark- Packet Capture Home Lab]([https://github.com/joshmadakor1/Algorithms-Practice)]
+  - [Wireshark- Packet Capture Home Lab]([https://github.com/joshmadakor1/Algorithms-Practice)
     
 - <b>SIEM</b>
-  - Build SIEM Home Lab
+  - SIEM Home Lab
   -
 - <b>Python</b>
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
