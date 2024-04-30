@@ -19,8 +19,7 @@
  
 - <b>IBM</b>
 
-  - IBM and ISC2 Cybersecurity Specialist (https://coursera.org/share/e4271e542c321ffe49978c671f436a76)
-
+  - IBM and ISC2 Cybersecurity Specialist (https://i.imgur.com/LzbRfk8.png)
 - <b>CompTIA</b>
 
   - Security + SY0-701 (https://www.credly.com/earner/earned/badge/1303fcef-6451-4847-a675-8e3d19053268)
