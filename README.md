@@ -22,8 +22,7 @@
   - IBM and ISC2 Cybersecurity Specialist (https://i.imgur.com/LzbRfk8.png)
 - <b>CompTIA</b>
 
-  - Security + SY0-701 (https://www.credly.com/earner/earned/badge/1303fcef-6451-4847-a675-8e3d19053268)
-  
+  - Security + SY0-701 (https://i.imgur.com/jdXaMfa.png)  
 <h2>📺 Popular YouTube Videos</h2>
 
 
