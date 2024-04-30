@@ -15,7 +15,7 @@
 
 - <b>Google</b>
 
-  - Google Cybersecurity (https://coursera.org/share/11ec28eeb9ff1b7606d0375376e4f75b)
+  - Google Cybersecurity (https://i.imgur.com/rc9FF6O.png)
  
 - <b>IBM</b>
 
