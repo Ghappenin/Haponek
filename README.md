@@ -7,22 +7,21 @@
     
 - <b>SIEM</b>
   - SIEM Home Lab
-  -
+  
 - <b>Python</b>
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
- 
+
+- <b>Microsoft Defender
+
 <h2>👨‍💻 Certifications:</h2>
 
 - <b>Google</b>
-
   - Google Cybersecurity (https://i.imgur.com/rc9FF6O.png)
- 
 - <b>IBM</b>
-
   - IBM and ISC2 Cybersecurity Specialist (https://i.imgur.com/LzbRfk8.png)
 - <b>CompTIA</b>
-
-  - Security + SY0-701 (https://i.imgur.com/jdXaMfa.png)  
+  - Security + SY0-701 (https://i.imgur.com/jdXaMfa.png)
+    
 <h2>📺 Popular YouTube Videos</h2>
 
 
