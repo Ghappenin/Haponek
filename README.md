@@ -6,9 +6,11 @@
   - [Wireshark- Packet Capture Home Lab]([https://github.com/joshmadakor1/Algorithms-Practice)
     
 - <b>SIEM</b>
-  - [SIEM Home Lab](https://github.com/Ghappenin/HOME-SIEM/blob/main/README.md)  
+  - [SIEM Home Lab](https://github.com/Ghappenin/HOME-SIEM/blob/main/README.md)
+    
 - <b>Python</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+
+
 
 - <b>Microsoft Defender
 
