@@ -6,7 +6,7 @@
   - [Wireshark- Packet Capture Home Lab]([https://github.com/joshmadakor1/Algorithms-Practice)
     
 - <b>SIEM</b>
-  - [SIEM Home Lab](https://github.com/Ghappenin/HOME-SIEM/blob/main/README.md)
+  - [SIEM Home Lab](https://github.com/Ghappenin/HOME-SIEM/tree/main)
     
 - <b>Python</b>
 
