@@ -3,7 +3,7 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b>Wireshark</b>
-  - [Wireshark- Packet Capture Home Lab]([https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Wireshark- Packet Capture Home Lab](https://github.com/Ghappenin/WIRESHARK)
     
 - <b>SIEM</b>
   - [SIEM Home Lab](https://github.com/Ghappenin/HOME-SIEM/tree/main)
