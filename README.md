@@ -7,12 +7,9 @@
     
 - <b>SIEM</b>
   - [SIEM Home Lab](https://github.com/Ghappenin/HOME-SIEM/tree/main)
-    
-- <b>Python</b>
 
-
-
-- <b>Microsoft Defender
+- <b>Microsoft</b>
+  - [Microsoft Windows Defender and Firewall](https://github.com/Ghappenin/Microsoft-Windows-Defender-and-Firewall)
 
 <h2>👨‍💻 Certifications:</h2>
 
