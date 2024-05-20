@@ -11,13 +11,15 @@
 - <b>Microsoft</b>
   - [Microsoft Windows Defender and Firewall](https://github.com/Ghappenin/Microsoft-Windows-Defender-and-Firewall)
 
-<h2>👨‍💻 Certifications:</h2>
+<h2>👨‍💻 Certifications/Badges:</h2>
 
 - <b>Google</b>
   - [Google Cybersecurity](https://i.imgur.com/rc9FF6O.png)
   - [Google IT Automation with Python](https://i.imgur.com/2uEQ2wA.png)
 - <b>IBM</b>
   - [IBM and ISC2 Cybersecurity Specialist](https://i.imgur.com/LzbRfk8.png)
+- <b>CompTIA</b>
+  - [Security + SY0-701](https://i.imgur.com/jdXaMfa.png)
 - <b>CompTIA</b>
   - [Security + SY0-701](https://i.imgur.com/jdXaMfa.png)
     
