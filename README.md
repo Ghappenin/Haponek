@@ -41,7 +41,6 @@
 [instagram]: https://www.instagram.com/joshmadakor/
 [linkedin]: https://www.linkedin.com/in/gregory-haponek-53518530a
 
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="gregory-haponek-53518530a" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://www.linkedin.com/in/gregory-haponek-53518530a?trk=profile-badge">Gregory Haponek</a></div>
               
 
 <!--
