@@ -20,19 +20,14 @@
   - [IBM and ISC2 Cybersecurity Specialist](https://i.imgur.com/LzbRfk8.png)
 - <b>CompTIA</b>
   - [Security + SY0-701](https://i.imgur.com/jdXaMfa.png)
+ 
+<h2>👨‍💻 Badges:</h2>
+
 - <b>HacktheBox</b>
   - [Introduction to Active Directory Module](https://academy.hackthebox.com/achievement/badge/edfbfe28-164f-11ef-b18d-bea50ffe6cb4)
   - [Introduction to Network Traffic Analysis Module](https://academy.hackthebox.com/achievement/badge/e6f33e19-1623-11ef-b18d-bea50ffe6cb4)
     
-<h2>📺 Popular YouTube Videos</h2>
 
-
-
-- [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
-- [A Day in the Life of a Cybersecurity Anayst](https://www.youtube.com/watch?v=uHy3oM7NnoU)
-- [How to Create a KeyLogger (C#)](https://www.youtube.com/watch?v=N-L9hklSlNk)
-- [Ransomware Demonstration (C#)](https://www.youtube.com/watch?v=OfvdQeh79s0)
-- [Is WGU Legit?](https://www.youtube.com/watch?v=E2MwRWxDBkA)
 
 <h2> 🤳 Connect with me:</h2>
 
