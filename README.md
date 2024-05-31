@@ -11,7 +11,7 @@
 - <b>Microsoft</b>
   - [Microsoft Windows Defender and Firewall](https://github.com/Ghappenin/Microsoft-Windows-Defender-and-Firewall)
 
-<h2>👨‍💻 Certifications/Badges:</h2>
+<h2>👨‍💻 Certifications:</h2>
 
 - <b>Google</b>
   - [Google Cybersecurity](https://i.imgur.com/rc9FF6O.png)
@@ -20,6 +20,8 @@
   - [IBM and ISC2 Cybersecurity Specialist](https://i.imgur.com/LzbRfk8.png)
 - <b>CompTIA</b>
   - [Security + SY0-701](https://i.imgur.com/jdXaMfa.png)
+- <b>TryHackMe</b>
+  - [SOC Level 1 Learning Path](https://i.imgur.com/TTKiVfu.png)
  
 <h2>👨‍💻 Badges:</h2>
 
