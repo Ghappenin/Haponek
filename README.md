@@ -38,7 +38,7 @@
 
 
 
-[linkedin]: https://www.linkedin.com/in/gregory-haponek-53518530a
+[linkedin]: https://www.linkedin.com/in/gregory-haponek
 
               
 
