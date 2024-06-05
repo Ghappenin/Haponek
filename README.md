@@ -21,7 +21,7 @@
 - <b>CompTIA</b>
   - [Security + SY0-701](https://i.imgur.com/jdXaMfa.png)
 - <b>TryHackMe</b>
-  - [SOC Level 1 Learning Path](https://i.imgur.com/TTKiVfu.png)
+  - [SOC Level 1](https://i.imgur.com/TTKiVfu.png)
  
 <h2>👨‍💻 Badges:</h2>
 
