@@ -14,7 +14,7 @@
 
 - <b>AWS</b>
   - [AWS S3 Basics](https://github.com/Ghappenin/Microsoft-Windows-Defender-and-Firewall)
-  - [Security with AWS: Identity and Access Management (IAM)](https://github.com/Ghappenin/Microsoft-Windows-Defender-and-Firewall)
+  - [Security with AWS: Identity and Access Management (IAM)](https://github.com/Ghappenin/Security-with-AWS-Identity-and-Access-Management-IAM-)
 
 <h2>👨‍💻 Certifications:</h2>
 
