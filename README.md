@@ -10,7 +10,7 @@
   - [SIEM Home Lab](https://github.com/Ghappenin/HOME-SIEM/blob/main/README.md)
 
 - <b>Microsoft</b>
-  - [Microsoft Windows Defender and Firewall](https://github.com/Ghappenin/HOME-SIEM/blob/main/README.md)
+  - [Microsoft Windows Defender and Firewall](https://github.com/Ghappenin/Microsoft-Windows-Defender-and-Firewall/blob/main/README.md)
 
 - <b>AWS</b>
   - [AWS S3 Basics](https://github.com/Ghappenin/AWS-S3-Basics/blob/main/README.md)
