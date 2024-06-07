@@ -3,7 +3,7 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b>Wireshark</b>
-  - [Wireshark- Packet Capture](https://github.com/Ghappenin/WIRESHARK)
+  - [Wireshark- Packet Capture](README.md)
   - [Wireshark- Network Security Analysis](https://github.com/Ghappenin/WIRESHARK)
     
 - <b>SIEM</b>
