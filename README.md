@@ -3,7 +3,8 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b>Wireshark</b>
-  - [Wireshark- Packet Capture Home Lab](https://github.com/Ghappenin/WIRESHARK)
+  - [Wireshark- Packet Capture](https://github.com/Ghappenin/WIRESHARK)
+  - [Wireshark- Network Security Analysis](https://github.com/Ghappenin/WIRESHARK)
     
 - <b>SIEM</b>
   - [SIEM Home Lab](https://github.com/Ghappenin/HOME-SIEM/tree/main)
@@ -24,6 +25,8 @@
   - [IBM and ISC2 Cybersecurity Specialist Professional Certificate](https://i.imgur.com/LzbRfk8.png)
 - <b>CompTIA</b>
   - [Security + SY0-701](https://i.imgur.com/jdXaMfa.png)
+- <b>AWS</b>
+  - [AWS Cloud Solutions Architect Professional Certificate](https://i.imgur.com/jdXaMfa.png)
 - <b>TryHackMe</b>
   - [SOC Level 1](https://i.imgur.com/TTKiVfu.png)
  
