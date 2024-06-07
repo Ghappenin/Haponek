@@ -11,6 +11,10 @@
 - <b>Microsoft</b>
   - [Microsoft Windows Defender and Firewall](https://github.com/Ghappenin/Microsoft-Windows-Defender-and-Firewall)
 
+- <b>AWS</b>
+  - [AWS S3 Basics](https://github.com/Ghappenin/Microsoft-Windows-Defender-and-Firewall)
+
+
 <h2>👨‍💻 Certifications:</h2>
 
 - <b>Google</b>
