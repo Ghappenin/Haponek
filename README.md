@@ -4,7 +4,7 @@
 
 - <b>Wireshark</b>
   - [Wireshark- Packet Capture](https://github.com/Ghappenin/Wireshark-Packet-Capture/blob/main/README.md)
-  - [Wireshark- Network Security Analysis](https://github.com/Ghappenin/WIRESHARK)
+  - [Wireshark- Network Security Analysis](https://github.com/Ghappenin/Wireshark-Network-Security-Analysis/blob/main/README.md)
     
 - <b>SIEM</b>
   - [SIEM Home Lab](https://github.com/Ghappenin/HOME-SIEM/blob/main/README.md)
@@ -13,8 +13,8 @@
   - [Microsoft Windows Defender and Firewall](https://github.com/Ghappenin/HOME-SIEM/blob/main/README.md)
 
 - <b>AWS</b>
-  - [AWS S3 Basics](https://github.com/Ghappenin/Microsoft-Windows-Defender-and-Firewall)
-  - [Security with AWS: Identity and Access Management (IAM)](https://github.com/Ghappenin/Security-with-AWS-Identity-and-Access-Management-IAM-)
+  - [AWS S3 Basics](https://github.com/Ghappenin/AWS-S3-Basics/blob/main/README.md)
+  - [Security with AWS: Identity and Access Management (IAM)](https://github.com/Ghappenin/Security-with-AWS-Identity-and-Access-Management-IAM-/blob/main/README.md)
 
 <h2>👨‍💻 Certifications:</h2>
 
