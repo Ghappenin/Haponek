@@ -20,7 +20,7 @@
 
 - <b>Google</b>
   - [Google Cybersecurity Professional Certificate](https://i.imgur.com/2VHin6z.png)
-  - [Google IT Automation with Python Professional Certificate](https://i.imgur.com/2uEQ2wA.png)
+  - [Google IT Automation with Python Professional Certificate](https://i.imgur.com/ZYlY788.png)
 - <b>IBM</b>
   - [IBM and ISC2 Cybersecurity Specialist Professional Certificate](https://i.imgur.com/LzbRfk8.png)
 - <b>CompTIA</b>
