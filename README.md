@@ -26,7 +26,7 @@
 - <b>CompTIA</b>
   - [Security + SY0-701](https://i.imgur.com/jdXaMfa.png)
 - <b>AWS</b>
-  - [AWS Cloud Solutions Architect Professional Certificate](https://i.imgur.com/jdXaMfa.png)
+  - [AWS Cloud Solutions Architect Professional Certificate](https://i.imgur.com/JQVZYkq.png)
 - <b>TryHackMe</b>
   - [SOC Level 1](https://i.imgur.com/TTKiVfu.png)
  
