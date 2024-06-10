@@ -7,7 +7,7 @@
   - [Wireshark- Network Security Analysis](https://github.com/Ghappenin/Wireshark-Network-Security-Analysis/blob/main/README.md)
     
 - <b>SIEM</b>
-  - [SIEM Home Lab](https://github.com/Ghappenin/HOME-SIEM/blob/main/README.md)
+  - [Home SIEM Lab](https://github.com/Ghappenin/HOME-SIEM/blob/main/README.md)
 
 - <b>Microsoft</b>
   - [Microsoft Windows Defender and Firewall](https://github.com/Ghappenin/Microsoft-Windows-Defender-and-Firewall/blob/main/README.md)
