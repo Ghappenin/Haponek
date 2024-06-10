@@ -19,7 +19,7 @@
 <h2>👨‍💻 Certifications:</h2>
 
 - <b>Google</b>
-  - [Google Cybersecurity Professional Certificate](https://i.imgur.com/rc9FF6O.png)
+  - [Google Cybersecurity Professional Certificate](https://i.imgur.com/2VHin6z.png)
   - [Google IT Automation with Python Professional Certificate](https://i.imgur.com/2uEQ2wA.png)
 - <b>IBM</b>
   - [IBM and ISC2 Cybersecurity Specialist Professional Certificate](https://i.imgur.com/LzbRfk8.png)
