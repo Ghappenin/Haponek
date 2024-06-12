@@ -2,6 +2,9 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
+- <b>Cisco</b>
+  - [Build a Small Simulated Network With Cisco Packet Tracker](https://github.com/Ghappenin/Wireshark-Network-Security-Analysis/blob/main/README.md)
+    
 - <b>Wireshark</b>
   - [Wireshark- Packet Capture](https://github.com/Ghappenin/Wireshark-Packet-Capture/blob/main/README.md)
   - [Wireshark- Network Security Analysis](https://github.com/Ghappenin/Wireshark-Network-Security-Analysis/blob/main/README.md)
