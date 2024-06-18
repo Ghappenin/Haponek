@@ -7,7 +7,6 @@
     
 - <b>Wireshark</b>
   - [Wireshark- Packet Capture](https://github.com/Ghappenin/Wireshark-Packet-Capture/blob/main/README.md)
-  - [Wireshark- Network Security Analysis](https://github.com/Ghappenin/Wireshark-Network-Security-Analysis/blob/main/README.md)
     
 - <b>SIEM</b>
   - [Home SIEM Lab](https://github.com/Ghappenin/HOME-SIEM/blob/main/README.md)
