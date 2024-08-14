@@ -16,7 +16,7 @@
 
 - <b>AWS</b>
   - [AWS S3 Basics](https://github.com/Ghappenin/AWS-S3-Basics/blob/main/README.md)
-  - [Security with AWS: Identity and Access Management (IAM)- Scheduled Completion July '24](https://github.com/Ghappenin/Security-with-AWS-Identity-and-Access-Management-IAM-/blob/main/README.md)
+  - [Security with AWS: Identity and Access Management (IAM)- Scheduled Completion Sep '24](https://github.com/Ghappenin/Security-with-AWS-Identity-and-Access-Management-IAM-/blob/main/README.md)
 
 <h2>👨‍💻 Certifications:</h2>
 
