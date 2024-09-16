@@ -27,6 +27,7 @@
   - [IBM and ISC2 Cybersecurity Specialist Professional Certificate](https://i.imgur.com/xZF3RrQ.png)
 - <b>CompTIA</b>
   - [Security + SY0-701](https://i.imgur.com/soBxbl6.png)
+  - [CySA + CSO-003](https://i.imgur.com/QDgy2Ws.png)
 - <b>AWS</b>
   - [AWS Cloud Solutions Architect Professional Certificate](https://i.imgur.com/JQVZYkq.png)
 - <b>TryHackMe</b>
