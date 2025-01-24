@@ -33,7 +33,7 @@
 - <b>TryHackMe</b>
   - [SOC Level 1](https://i.imgur.com/TTKiVfu.png)
 - <b>ISACA</b>
-  - [CISA Exam- Scheduled 2/1/2025]
+  - CISA Exam- Scheduled 2/1/2025
 
  
 <h2>👨‍💻 Badges:</h2>
