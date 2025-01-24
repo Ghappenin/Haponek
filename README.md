@@ -16,7 +16,7 @@
 
 - <b>AWS</b>
   - [AWS S3 Basics](https://github.com/Ghappenin/AWS-S3-Basics/blob/main/README.md)
-  - [Security with AWS: Identity and Access Management (IAM)- Scheduled Completion Oct '24](https://github.com/Ghappenin/Security-with-AWS-Identity-and-Access-Management-IAM-/blob/main/README.md)
+ 
 
 <h2>👨‍💻 Certifications:</h2>
 
@@ -32,6 +32,9 @@
   - [AWS Cloud Solutions Architect Professional Certificate](https://i.imgur.com/JQVZYkq.png)
 - <b>TryHackMe</b>
   - [SOC Level 1](https://i.imgur.com/TTKiVfu.png)
+- <b>ISACA</b>
+  - [CISA Exam- Scheduled 2/1/2025]
+
  
 <h2>👨‍💻 Badges:</h2>
 
