@@ -32,8 +32,7 @@
   - [AWS Cloud Solutions Architect Professional Certificate](https://i.imgur.com/JQVZYkq.png)
 - <b>TryHackMe</b>
   - [SOC Level 1](https://i.imgur.com/TTKiVfu.png)
-- <b>ISACA</b>
-  - CISA Exam- Scheduled 2/1/2025
+
 
  
 <h2>👨‍💻 Badges:</h2>
